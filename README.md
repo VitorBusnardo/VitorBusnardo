@@ -5,7 +5,16 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, Next.js e Styled Components.</strong>
+  🦄 Habilidades:
+  
+  •	<strong>DESENVOLVIMENTO DESKTOP:</strong> JAVA 8.0 +, JAVA SWING e JAVA FX.
+  
+  •	<strong>DESENVOLVIMENTO WEB:</strong> SPRING BOOT, HTML5, CSS3 e JAVA SCRIPT.
+  
+  •	<strong>DATA BASE:</strong> MYSQL, SQLITE, MONGODB e  SQLSERVER.
+  
+  •	<strong>OUTROS MENOS FAMILIARIZADOS:</strong> DELPHI e PHP.
+
 </p>
 
 <p align="left">
