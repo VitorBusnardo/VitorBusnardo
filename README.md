@@ -7,13 +7,13 @@
 <p align="left">
   🦄 Habilidades:
   
-  •	<strong>DESENVOLVIMENTO DESKTOP:</strong> JAVA 8.0 +, JAVA SWING e JAVA FX.
+  •	<strong>DESENVOLVIMENTO DESKTOP:</strong> Java 8.0 +, Java Swing e Java FX.
   
-  •	<strong>DESENVOLVIMENTO WEB:</strong> SPRING BOOT, HTML5, CSS3 e JAVA SCRIPT.
+  •	<strong>DESENVOLVIMENTO WEB:</strong> Spring Boot, HTML5, CSS3 e JavaScript.
   
-  •	<strong>DATA BASE:</strong> MYSQL, SQLITE, MONGODB e  SQLSERVER.
+  •	<strong>DATA BASE:</strong> MySql, SQLite, MongoDB e  SQLServer.
   
-  •	<strong>OUTROS MENOS FAMILIARIZADOS:</strong> DELPHI e PHP.
+  •	<strong>OUTROS MENOS FAMILIARIZADOS:</strong> Delphi e PHP.
 
 </p>
 
