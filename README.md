@@ -30,5 +30,5 @@
 <h3> :rocket: &nbsp;Download Currículo</h3>
 
 ```
-https://www.mediafire.com/file/c0qpab8xxkxv9eq/Curr%25C3%25ADculo_-_Vitor_Busnardo.docx/file
+https://www.mediafire.com/file/124dvzk7m8xyo2z/Curr%25C3%25ADculo_-_Vitor_Busnardo.docx/file
 ```
