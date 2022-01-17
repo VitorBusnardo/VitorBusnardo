@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Java 8.0 +, Java Swing, Java FX, Spring Boot, HTML5, CSS3, JavaScript, Delphi, MySql, SQLite, MongoDB e SQLServer.</strong> 
+  🦄 Habilidades: <strong>Java 8.0 +, Java Swing, Java FX, Spring Boot, Angular, HTML5, CSS3, JavaScript, Delphi, MySql, SQLite, MongoDB e SQLServer.</strong> 
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, NetBeans, Eclipse, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, NetBeans, Eclipse, Spring Tool Suite 4, Git e GitHub.</strong>
 </p>
 
 <p align="left">
@@ -30,5 +30,5 @@
 <h3> :rocket: &nbsp;Download Currículo</h3>
 
 ```
-https://www.mediafire.com/file/124dvzk7m8xyo2z/Curr%25C3%25ADculo_-_Vitor_Busnardo.docx/file
+https://www.mediafire.com/file/jx7l0lkfwhg3xeu/Curr%25C3%25ADculo_-_Vitor_Busnardo.docx/file
 ```
