@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Vitor Busnardo. Sou <strong>Desenvolvedor de Front-End e Back-End</strong>.
+  🌎 Olá, meu nome é Vitor Busnardo. Sou <strong>Desenvolvedor de Front-End e Back-End. </strong>.
 </p>
 
 <p align="left">
@@ -30,5 +30,5 @@
 <h3> :rocket: &nbsp;Download Currículo</h3>
 
 ```
-https://www.mediafire.com/file/jx7l0lkfwhg3xeu/Curr%25C3%25ADculo_-_Vitor_Busnardo.docx/file
+https://www.mediafire.com/file/jx7l0lkfwhg3xeu/Currículo+-+Vitor+Busnardo.docx/file
 ```
