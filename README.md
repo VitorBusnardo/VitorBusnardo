@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Java 8.0 +, Java Swing, Java FX, Spring Boot, Angular, HTML5, CSS3, JavaScript, Delphi, MySql, SQLite, MongoDB e SQLServer.</strong> 
+  🦄 Habilidades: <strong>Java 8.0 +, Java Swing, Java FX, Spring Boot, Angular, HTML5, CSS3, JavaScript, Delphi, MySql, SQLite, H2 Data Base, MongoDB e SQLServer.</strong> 
 </p>
 
 <p align="left">
